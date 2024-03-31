@@ -1,0 +1,21 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+  margin-right: 25px;
+  padding-left: 0px;
+  cursor: pointer;
+}
+
+.tab {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  color: #7b8794;
+  border-bottom: 2px solid #dfe2e5;
+}
+
+.active-tab {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+}

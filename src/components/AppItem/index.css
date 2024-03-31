@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.app-con {
+  background-color: #ffffff;
+  border-radius: 10px;
+  list-style-type: none;
+  margin-right: 10px;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  margin-bottom: 10px;
+  width: 16%;
+}
+
+.app-img {
+  width: 90px;
+  height: 90px;
+}
+
+.app-name {
+  font-family: Bree Serif;
+  color: #1e293b;
+}
+a{
+  text-decoration: none;
+}
